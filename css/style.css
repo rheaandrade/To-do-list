@@ -1,0 +1,38 @@
+#add-form
+{
+	display: inline;
+}
+
+.done-false
+{
+	color: black;
+}
+
+.done-true 
+{
+	color:gray;
+	text-decoration: line-through;
+}
+
+ .container
+{
+	background-color: #fafafa;
+	height: 750px;
+}
+
+#footer 
+{
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+.nav-wrapper
+{
+	 background-color:#b71c1c;
+}
+
+.content {
+	margin-left: 30px;
+}
